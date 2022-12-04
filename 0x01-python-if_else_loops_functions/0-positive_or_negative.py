@@ -6,4 +6,4 @@ if number == 0:
 elif number > 0:
     print("{:d} is positive\n")
 else:
-    print("{:d} is negative\n") 
+    print("{:d} is negative\n")
